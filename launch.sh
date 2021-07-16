@@ -1,5 +1,8 @@
 #! /usr/bin/env bash
-# requires wmctrl package, for fedora : sudo dnf install wmctrl
+# requires wmctrl package, for fedora/ubuntu-based : sudo dnf/apt install wmctrl
+
+# It is just a simple startup script which checks for network connectivity and if online,
+# then it opens up my daily-use apps/programs on different workspaces just the way I like it ;)
 
 while :; do
     wget -q --tries=10 --timeout=20 --spider http://google.com

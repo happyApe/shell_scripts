@@ -11,7 +11,7 @@
 # Things to set up -> 
 
 #   Create the custom keyboard shortcut with shortcut key <ctrl> + `
-#   and command as : /bin/bash /home/voila/Playground/shell_scripts/dictionary_xclip.sh
+#   and command as : /bin/bash /home/<user_name>/Playground/shell_scripts/dictionary_xclip.sh
 #   You need the dictionary.py file in the specified location as in the script (my webscraping folder for now)
 #   You need the konsole terminal application also
 #   I used konsole instead of the gnome-terminal as gnome-terminal command (uncomment that to see), it gives a 
