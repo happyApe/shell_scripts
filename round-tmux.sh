@@ -14,12 +14,12 @@ then
     # Name first window
     tmux rename-window -t 1 'vim'
     # tmux send-keys -t 'vim' "source ~/py3.6/bin/activate" C-m 'clear' C-m
-    tmux send-keys -t 'vim' "cd ~/Playground/Round\ Pegs/ProGan/" C-m 'clear' C-m
+    tmux send-keys -t 'vim' "cd ~/Playground/Round\ Pegs/" C-m 'clear' C-m
 
     # Create another window
     tmux new-window -t $SESSION:2 -n 'zsh'
     # tmux send-keys -t 'zsh' "source ~/py3.6/bin/activate" C-m 'clear' C-m
-    tmux send-keys -t 'zsh' "cd ~/Playground/Round\ Pegs/ProGan/" C-m 'clear' C-m
+    tmux send-keys -t 'zsh' "cd ~/Playground/Round\ Pegs/" C-m 'clear' C-m
 
     # Create a general window
     tmux new-window -t $SESSION:3 -n 'shell'
