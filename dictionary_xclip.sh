@@ -10,6 +10,9 @@
 
 # Things to set up -> 
 
+#   Requires xclip to be installed : 
+#   sudo apt install xclip 
+
 #   Create the custom keyboard shortcut with shortcut key <ctrl> + `
 #   and command as : /bin/bash /home/<user_name>/Playground/shell_scripts/dictionary_xclip.sh
 #   You need the dictionary.py file in the specified location as in the script (my webscraping folder for now)
