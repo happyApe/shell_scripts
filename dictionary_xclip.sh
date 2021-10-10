@@ -34,7 +34,7 @@ echo $1
 # dictionary="/home/voila/Playground/Automate\ Boring\ Stuff/WebScraping/dictionary.py"
 # eval "$dictionary" -w $1
 
-dictionary="/home/skipper/Playground/Automate Boring Stuff/WebScraping/dictionary.py"
+dictionary="/home/skipper/Playground/Automate\ Boring\ Stuff/WebScraping/dictionary.py"
 # Send a notification to inform script is running
 notify-send "Running dictionary" "Searching for word $1"
 # gnome-terminal --window-with-profile=vocab --  "$dictionary" -w "$1" & disown
