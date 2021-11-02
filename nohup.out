@@ -1,0 +1,138 @@
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[23754:23754:1102/144359.832170:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[23714:23714:1102/144400.789493:ERROR:sharing_service.cc(222)] Device registration failed with fatal error
+[23714:23714:1102/144400.841674:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.841730:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.841752:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.841771:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.841788:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.841804:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.841901:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.841936:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.841957:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.841976:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.842009:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.842108:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.842144:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.842165:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.842265:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.842301:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.842323:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144400.842348:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23714:1102/144401.266538:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[23714:23738:1102/144402.913735:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[23714:23738:1102/144402.913764:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+[23714:23738:1102/144402.913771:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[23714:23738:1102/144402.964396:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[24735:24735:1102/144508.736982:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[24694:24694:1102/144509.764126:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764190:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764219:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764245:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764270:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764295:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764319:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764344:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764367:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764391:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764414:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764438:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764461:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764485:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764511:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764535:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764558:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144509.764582:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24694:1102/144510.271083:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[24694:24714:1102/144512.782480:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[24694:24714:1102/144512.782506:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+[24694:24714:1102/144512.782513:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[24694:24714:1102/144512.824722:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+[24694:24694:1102/144518.741509:ERROR:sharing_service.cc(222)] Device registration failed with fatal error
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[26137:26137:1102/144704.044840:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[26097:26097:1102/144705.012518:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012589:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012629:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012664:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012725:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012762:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012825:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012862:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012896:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012937:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.012995:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.013048:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.013103:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.013157:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.013219:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.013279:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.013319:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.013382:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26097:1102/144705.501197:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[26097:26131:1102/144708.027769:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[26097:26131:1102/144708.027790:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+[26097:26131:1102/144708.027796:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[26097:26131:1102/144708.068663:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+[26097:26097:1102/144709.539271:ERROR:sharing_service.cc(222)] Device registration failed with fatal error
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[29425:29425:1102/152241.187737:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[29386:29386:1102/152242.178914:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.178965:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.178986:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179005:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179023:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179039:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179057:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179090:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179110:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179160:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179179:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179197:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179215:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179247:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179285:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179312:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179347:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.179381:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29386:1102/152242.692898:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[29386:29437:1102/152245.235358:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[29386:29437:1102/152245.235388:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+[29386:29437:1102/152245.235396:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[29386:29437:1102/152245.279737:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+[29386:29386:1102/152251.203364:ERROR:sharing_service.cc(222)] Device registration failed with fatal error
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[30763:30763:1102/152333.597418:ERROR:sandbox_linux.cc(374)] InitializeSandbox() called with multiple threads in process gpu-process.
+[30723:30723:1102/152334.649487:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649544:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649567:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649591:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649622:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649642:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649740:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649785:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649819:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649850:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649879:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649909:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649940:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.649973:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.650016:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.650049:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.650083:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152334.650116:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: The message port closed before a response was received.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152335.132610:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30774:1102/152337.634275:ERROR:chrome_browser_main_extra_parts_metrics.cc(228)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[30723:30774:1102/152337.634300:ERROR:chrome_browser_main_extra_parts_metrics.cc(231)] crbug.com/1216328: Checking Bluetooth availability ended.
+[30723:30774:1102/152337.634306:ERROR:chrome_browser_main_extra_parts_metrics.cc(234)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[30723:30774:1102/152337.681202:ERROR:chrome_browser_main_extra_parts_metrics.cc(238)] crbug.com/1216328: Checking default browser status ended.
+[30723:30723:1102/152338.955060:ERROR:sharing_service.cc(222)] Device registration failed with fatal error
+[30723:30723:1102/152449.834937:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152455.379662:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152530.620965:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152537.560610:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/152848.339080:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/153055.758059:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/153058.979963:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
+[30723:30723:1102/153110.709371:ERROR:CONSOLE(0)] "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.", source: chrome-extension://mpognobbkildjkofajifpdfhcoklimli/browser.html (0)
