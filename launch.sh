@@ -24,16 +24,16 @@ sleep 3
 wmctrl -s 1 # Switches to workspace 1 
 nohup slack & disown
 sleep 2
-sleep 2
 wmctrl -s 2 # Switches to workspace 2
 nohup firefox &>/dev/null & disown
-sleep 2
+sleep 4
 wmctrl -s 3 # Switches to workspace 3
 # nohup flatpak run com.github.alainm23.planner & disown
 nohup google-chrome-stable &>/dev/null & disown
 sleep 2
 # Moves google chrome window to workspace 3 
 # fetches window id of chrome 
+sleep 2
 window_id=$(wmctrl -l | tail -1 | cut -f1 -d" ")
 # transfers the chrome (from fetched window id) to workspace 3
 wmctrl -i -r "$window_id" -t 2
