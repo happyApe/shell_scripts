@@ -15,7 +15,7 @@ then
     tmux rename-window -t 1 'vim'
     # tmux send-keys -t 'vim' "source ~/py3.6/bin/activate" C-m 'clear' C-m
     tmux send-keys -t 'vim' "conda activate acd" C-m 'clear' C-m
-    tmux send-keys -t 'vim' "cd ~/ACD/Experiments/" C-m 'clear' C-m
+    tmux send-keys -t 'vim' "cd ~/ACD/Experiments/src" C-m 'clear' C-m
 
     # Create another window
     tmux new-window -t $SESSION:2 -n 'zsh'
