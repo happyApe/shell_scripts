@@ -40,7 +40,8 @@ DIR11="Playground"
 DIR12="Research\ Work"
 DIR13="Side\ Stuff"
 DIR14="ACD"
-DIR15="Udemy\ Courses"
+DIR15="ScaleTorch"
+
 declare -a FOLDERS=("$DIR1" 
                 "$DIR2"
                 "$DIR3"
@@ -55,6 +56,7 @@ declare -a FOLDERS=("$DIR1"
                 "$DIR12"
                 "$DIR13"
                 "$DIR14"
+                "$DIR15"
                 )
 
 printf "\n##### Syncing Folders #####\n\n"

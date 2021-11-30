@@ -18,6 +18,14 @@ then
     # tmux send-keys -t 'vim' "cd ~/ScaleTorch/cli/scaletorch_cli" C-m 'clear' C-m
     tmux send-keys -t 'vim' "cd ~/ScaleTorch/jobController/src/" C-m 'clear' C-m
 
+    # Splitting the first window into two panes
+    # Select Pane 1
+    tmux selectp -t 0
+    # Splitting Pane 1 by 25 %
+    tmux splitw -h -p 25
+    tmux send-keys -t 'vim' "conda activate scaletorch" C-m 'clear' C-m
+    tmux send-keys -t 'vim' "cd ~/ScaleTorch/jobController/src/" C-m 'clear' C-m
+
     # Create cli window
     tmux new-window -t $SESSION:2 -n 'cli'
     tmux send-keys -t 'cli' "conda activate scaletorch" C-m 'clear' C-m
@@ -30,6 +38,15 @@ then
 
     # Create a ScaleTorch window
     tmux new-window -t $SESSION:4 -n 'ScaleTorch'
+    tmux send-keys -t 'ScaleTorch' "conda activate scaletorch" C-m 'clear' C-m
+    tmux send-keys -t 'ScaleTorch' "cd ~/ScaleTorch/" C-m 'clear' C-m
+
+
+    # Splitting the 4th window into two panes
+    # Select Pane 1
+    tmux selectp -t 3
+    # Splitting Pane 1 by 25 %
+    tmux splitw -v -p 25
     tmux send-keys -t 'ScaleTorch' "conda activate scaletorch" C-m 'clear' C-m
     tmux send-keys -t 'ScaleTorch' "cd ~/ScaleTorch/" C-m 'clear' C-m
 
