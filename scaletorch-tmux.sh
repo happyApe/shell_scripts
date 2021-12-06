@@ -44,12 +44,14 @@ then
 
     # Splitting the 4th window into two panes
     # Select Pane 1
-    tmux selectp -t 3
-    # Splitting Pane 1 by 25 %
-    tmux splitw -v -p 25
+    tmux selectp -t 0
+    # Splitting Pane 1 by 10%
+    tmux splitw -v -p 10
     tmux send-keys -t 'ScaleTorch' "conda activate scaletorch" C-m 'clear' C-m
     tmux send-keys -t 'ScaleTorch' "cd ~/ScaleTorch/" C-m 'clear' C-m
 
+    # Switch to top-pane of the 4th window
+    tmux selectp -t 1
 fi
 # Attach session on the first window
 tmux attach-session -t $SESSION:1
