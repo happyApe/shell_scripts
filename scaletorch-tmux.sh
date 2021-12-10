@@ -20,29 +20,35 @@ then
 
     # Splitting the first window into two panes
     # Select Pane 1
-    tmux selectp -t 0
+    tmux selectp -t 1
     # Splitting Pane 1 by 25 %
     tmux splitw -h -p 25
     tmux send-keys -t 'vim' "conda activate scaletorch" C-m 'clear' C-m
     tmux send-keys -t 'vim' "cd ~/ScaleTorch/jobController/src/" C-m 'clear' C-m
+    tmux selectp -t 1
+
+    # Create another window same as first window
+    tmux new-window -t $SESSION:2 -n 'JC'
+    tmux send-keys -t 'JC' "conda activate scaletorch" C-m 'clear' C-m
+    tmux send-keys -t 'JC' "cd ~/ScaleTorch/jobController/" C-m 'clear' C-m
 
     # Create cli window
-    tmux new-window -t $SESSION:2 -n 'cli'
+    tmux new-window -t $SESSION:3 -n 'cli'
     tmux send-keys -t 'cli' "conda activate scaletorch" C-m 'clear' C-m
     tmux send-keys -t 'cli' "cd ~/ScaleTorch/cli" C-m 'clear' C-m
 
     # Create a authenticator window
-    tmux new-window -t $SESSION:3 -n 'authenticator'
+    tmux new-window -t $SESSION:4 -n 'authenticator'
     tmux send-keys -t 'authenticator' "conda activate scaletorch" C-m 'clear' C-m
     tmux send-keys -t 'authenticator' "cd ~/ScaleTorch/authenticator" C-m 'clear' C-m
 
     # Create a ScaleTorch window
-    tmux new-window -t $SESSION:4 -n 'ScaleTorch'
+    tmux new-window -t $SESSION:5 -n 'ScaleTorch'
     tmux send-keys -t 'ScaleTorch' "conda activate scaletorch" C-m 'clear' C-m
     tmux send-keys -t 'ScaleTorch' "cd ~/ScaleTorch/" C-m 'clear' C-m
 
 
-    # Splitting the 4th window into two panes
+    # Splitting the last window into two panes
     # Select Pane 1
     tmux selectp -t 0
     # Splitting Pane 1 by 10%
@@ -50,7 +56,7 @@ then
     tmux send-keys -t 'ScaleTorch' "conda activate scaletorch" C-m 'clear' C-m
     tmux send-keys -t 'ScaleTorch' "cd ~/ScaleTorch/" C-m 'clear' C-m
 
-    # Switch to top-pane of the 4th window
+    # Switch to top-pane of the last window
     tmux selectp -t 1
 fi
 # Attach session on the first window
