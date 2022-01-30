@@ -15,8 +15,7 @@ then
     tmux rename-window -t 1 'vim'
     # tmux send-keys -t 'vim' "source ~/py3.6/bin/activate" C-m 'clear' C-m
     tmux send-keys -t 'vim' "conda activate scaletorch" C-m 'clear' C-m
-    # tmux send-keys -t 'vim' "cd ~/ScaleTorch/cli/scaletorch_cli" C-m 'clear' C-m
-    tmux send-keys -t 'vim' "cd ~/ScaleTorch/jobController/src/" C-m 'clear' C-m
+    tmux send-keys -t 'vim' "cd ~/ScaleTorch/jobController/" C-m 'clear' C-m
 
     # Splitting the first window into two panes
     # Select Pane 1
