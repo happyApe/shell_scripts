@@ -31,10 +31,19 @@ then
     tmux send-keys -t 'JC' "conda activate scaletorch" C-m 'clear' C-m
     tmux send-keys -t 'JC' "cd ~/ScaleTorch/jobController" C-m 'clear' C-m
 
-    # Create cli window
-    tmux new-window -t $SESSION:3 -n 'cli'
-    tmux send-keys -t 'cli' "conda activate scaletorch" C-m 'clear' C-m
-    tmux send-keys -t 'cli' "cd ~/ScaleTorch/cli" C-m 'clear' C-m
+    # Splitting second window into two panes
+    # Select Pane 1
+    tmux selectp -t 2
+    # Splitting Pane 1 by 25 %
+    tmux splitw -v -p 25
+    tmux send-keys -t 'JC' "conda activate scaletorch" C-m 'clear' C-m
+    tmux send-keys -t 'JC' "cd ~/ScaleTorch/jobController" C-m 'clear' C-m
+    tmux selectp -t 1
+
+    # Create launcher window
+    tmux new-window -t $SESSION:3 -n 'launcher'
+    tmux send-keys -t 'launcher' "conda activate scaletorch" C-m 'clear' C-m
+    tmux send-keys -t 'launcher' "cd ~/pycodes/random_codes" C-m 'clear' C-m
 
     # Create a scaletorch window
     tmux new-window -t $SESSION:4 -n 'scaletorch'
